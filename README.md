@@ -31,7 +31,7 @@ Backend: Node.js, Express, MongoDB, Mongoose
 Machine Learning: Jupyter Notebook, Scikit-learn, TensorFlow.js (Pose Estimation WIP)
 
 NLP: Regex parsing (v1), spaCy or transformers (planned)
-<img width="1071" alt="Screenshot 2025-03-30 at 9 46 21 PM" src="https://github.com/user-attachments/assets/b2b412ab-4d12-411e-9a78-9002867671d3" />
+
 <img width="1440" alt="Screenshot 2025-04-05 at 2 39 47 PM" src="https://github.com/user-attachments/assets/5354c6fb-b29a-4049-bda6-d2cb63810ebd" />
 <img width="1440" alt="Screenshot 2025-04-05 at 2 40 03 PM" src="https://github.com/user-attachments/assets/a651c414-0b0a-48e4-a546-61e3e723a43b" />
 <img width="1440" alt="Screenshot 2025-04-05 at 2 40 23 PM" src="https://github.com/user-attachments/assets/9de073d0-40a6-4e3c-a2a0-45697b4be158" />
